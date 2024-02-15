@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    background-image: url(https://img.freepik.com/premium-photo/illustration-famous-monument-world_117023-16.jpg);
+    min-height: 400px;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+.btn{
+    margin-top: 300px;
+}
+
